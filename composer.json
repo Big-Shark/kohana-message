@@ -1,0 +1,21 @@
+{
+	"name": "evanpurkhiser/kohana-message",
+	"description": "A simplistic flash messaging system for the Kohana framework",
+	"homepage": "https://github.com/EvanPurkhiser/kohana-message",
+	"keywords": ["kohana", "message", "flash", "helper"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Evan Purkhiser",
+			"email": "evanpurkhiser@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.2.4"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-3.3/master": "3.3.x-dev"
+		}
+	}
+}
