@@ -17,6 +17,7 @@ class Kohana_Message {
 
 	// Message types
 	const SUCCESS = 'success';
+	const WARNING = 'warning';
 	const NOTICE  = 'notice';
 	const ERROR   = 'error';
 
