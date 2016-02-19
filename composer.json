@@ -1,13 +1,17 @@
 {
-	"name": "evanpurkhiser/kohana-message",
+	"name": "big-shark/kohana-message",
 	"description": "A simplistic flash messaging system for the Kohana framework",
-	"homepage": "https://github.com/EvanPurkhiser/kohana-message",
+	"homepage": "https://github.com/Big-Shark/kohana-message",
 	"keywords": ["kohana", "message", "flash", "helper"],
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Evan Purkhiser",
 			"email": "evanpurkhiser@gmail.com"
+		},
+		{
+			"name": "Maxim Solovev",
+			"email": "bigshark666@gmail.com"
 		}
 	],
 	"require": {
